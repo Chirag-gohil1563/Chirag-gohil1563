@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- ![Header image](header.png "Yo") -->
 
 <div align="center"> 
-    <h1>Hello stranger! I'm Umang Gohil
+    <h1>Hello stranger! I'm Chirag Gohil
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
     </h1> 
     <!-- <p align="center">
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </div>
 
 <h4>💬 Connect with me : </h4> 
-    <a href="https://www.linkedin.com/in/umang-gohil-1b34a6154">
+    <a href="https://www.linkedin.com/in/chirag-gohil-022965207/">
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/umang-gohil-1b34a6154">
